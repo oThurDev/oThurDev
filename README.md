@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Dev Arthur Bernardo 👋🙂
 
-#### ● 💻 Trabalho atualmente como Programador Front-end
+#### ● 💻 Programador Front-end
 #### ● 🚀 Estudando 
 #### ● 🙋🏽‍♂️ Técnico em Informática 
 
