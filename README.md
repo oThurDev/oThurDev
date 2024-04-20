@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Dev Arthur Bernardo 👋🙂
 
-#### ● 👨🏽‍💻 Programador Front-end
+#### ● 👨🏽‍💻 Programador Front-End
 #### ● 📚 Engenharia de Software - Unijui
 #### ● 💻 Técnico em Informática 
 
